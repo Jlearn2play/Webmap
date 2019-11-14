@@ -1,0 +1,23 @@
+h1 {
+  color: #FF4500;
+  background-color: Honeydew;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+div {
+  color: #000000;
+  background-color: Honeydew;
+  font-size: 100%;
+  font-family: Arial, Verdana, sans-serif;
+}
+ul {
+  color: #000000;
+  background-color: Honeydew;
+  font-size: 100%;
+  font-family: Arial, Verdana, sans-serif;
+}
+body {
+    background:  #00008B;
+    color: #9400D3;
+}
